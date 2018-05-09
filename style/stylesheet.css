@@ -1,15 +1,16 @@
 html {
-  font-family: 'Raleway', sans-serif;
-	margin: 5%;
-	line-height:1.5em;
+font-family: 'Raleway', sans-serif;
+margin: 5%;
+line-height:1.5em;
 }
 * {
 	padding: 0;
 	margin: 0;
 }
 .title {
-  font-size: 30px;
-  text-align: center;
+font-size: 30px;
+text-align: center;
+line-height:3em;
 }
 p, li{
 	font-size: 18px;
