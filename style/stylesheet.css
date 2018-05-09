@@ -1,6 +1,7 @@
 html {
   font-family: 'Raleway', sans-serif;
 	margin: 5%;
+	line-height:1.5em;
 }
 * {
 	padding: 0;
